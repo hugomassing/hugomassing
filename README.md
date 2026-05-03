@@ -1,71 +1,36 @@
-# 👋 Hi, I'm Hugo Massing  
-### 🧑💻 Front-end Developer • Freelance • Based in Tours, France
+# Hugo Massing
 
-Welcome to my GitHub profile! I’m a **Front-end developer** with a deep love for crafting sleek, responsive, and scalable web interfaces. Over the past few years, I’ve built tools used daily by companies and end-users — from creative dashboards to video editing platforms — always driven by performance, clarity, and UX.
+Senior front-end developer based in Tours, France. 10+ years shipping React, React Native, Next.js and TypeScript across consumer-facing web and mobile products — from the official 24 Hours of Le Mans site to React Native apps in production.
 
----
+Currently focused on LLM-powered product work: streaming chat UIs, custom tool calls, and agent integrations.
 
-## 🚀 A bit about what I do
+## What I'm working with
 
-💡 **Front-end Development:**  
-React, Next.js, TypeScript, Styled Components, TailwindCSS, Jest  
-I enjoy turning complex user needs into elegant, maintainable UIs.  
+**Daily:** React · Next.js · React Native · Expo · TypeScript · TanStack Query · Tailwind · Convex
+**LLM stack:** Vercel AI SDK · Mistral API · Gemini · streaming, function calling, agents
+**Also comfortable with:** Node.js · Supabase · AWS · Framer Motion · Jest
 
-☁️ **Other Techs I Like Working With:**  
-AWS, Git, SASS, Node.js, MySQL, AngularJS  
+## Recent work
 
----
+🎵 **[Radaar](https://radaar.app)** — SaaS for tracking music releases with Spotify integration. Next.js, Supabase, Gemini Flash, QStash.
 
-## 🧭 Experience & Highlights
+🍳 **[FoodStack](https://foodstack.cards)** — Game built at the Mistral AI hackathon. AI-generated recipes via the Mistral API with function calling and real-time persistence. React, Phaser 3, Convex.
 
-### 🕶️ My Job Glasses — Freelance (Jul 2025 – Aug 2025)
-Redesigned the main dashboard interface, simplifying user navigation and data visualization. Delivering clean and modern design through React and TypeScript.
+🗺️ **[BassMap](https://bass-map.vercel.app)** — Interactive map of bass music events in France. Next.js, Convex, OpenStreetMap.
 
-### 🏎️ Agence Happy End / ACO - 24h du Mans — Freelance (Oct 2023 – Apr 2025)
-- Built a full section dedicated to **seminars** for *lemans.org*  
-- Improved a custom **CMS** with new features and Leaflet.js integration for interactive maps  
-- Contributed to a new **ticketing system** for the legendary 24h du Mans event  
+## Experience highlights
 
-### 🧠 SONIO — Freelance (Nov 2023 – Apr 2024)
-- Developed a complete **back-office platform** for account management  
-- Provided React expertise and mentorship to backend developers, promoting best practices and clean architecture  
+- **HairTechPro AI** (2025–present) — React Native apps for an AI hairdressing startup. Custom AI agent with response streaming and tools.
+- **24h of Le Mans / lemans.org** (2023–2025) — Seminar area, custom CMS, interactive Leaflet map, ticketing.
+- **EasyMovie** (2019–2023) — Video creation SaaS. Led migration from Laravel monolith to React micro-frontend. Built shared UI library. Managed a team of 2.
+- Earlier: Sonio (MedTech), Vertical Station, Ekino (La Poste, Arval), Allo Floride, Giga.gg.
 
-### 🎬 EASYMOVIE — Paris (Sept 2019 – Mar 2023)
-- Built a **browser-based video creation tool**: capturing, editing, and syncing branded content in the cloud  
-- Migrated a **Laravel platform** into a modular **micro front-end React.js** architecture  
-- Designed and maintained an **internal UI library**  
+📄 [Full CV on LinkedIn](https://linkedin.com/in/hugomassing)
 
-### 📊 VERTICAL STATION — Paris (Jun 2018 – Jul 2019)
-- Developed internal tools for **video analytics and publication**  
-- Created a custom **performance scoring system** for video engagement  
+## Beyond code
 
-### 📧 EKINO — Levallois-Perret (Feb 2017 – May 2018)
-Developed digital products and front-end experiences for major clients including *La Poste*, *Arval*, and *Ipéria*.
+Music production, DJing, bikepacking, skateboarding. Currently preparing a 11,000 km charity ride from Tours to North Cape for Handi'Chiens.
 
 ---
 
-## 🎓 Background
-
-🎓 **École 42**, Paris — Promotion 2013  
-💾 **DUT Informatique**, Université de Lorraine (2010–2013)  
-
----
-
-## 🎵 Beyond Code
-
-When I’m not coding, I’m often producing music, DJing, exploring photography, experimenting with tech, or skating around while listening to my latest mix.
-
----
-
-## 🧩 A Few Values I Code By
-
-- *Code is design*: clarity and intent matter as much as syntax.  
-- *Iterate fast, refactor constantly.*  
-- *Always stay curious — because tech evolves, and so should I.*
-
----
-
-📫 **Let’s connect!**  
-📍 [Tours, France]  
-
-> *"Building thoughtful interfaces, one pixel at a time."*
+📍 Tours, France
