@@ -1,6 +1,6 @@
 # Hugo Massing
 
-Full-stack product engineer based in France. 10+ years shipping products in TypeScript, from the UI to the API: React, Next.js and React Native on the front, Node.js, NestJS and PostgreSQL behind it. I own features end to end, from the user problem to production (tests, CI, code review), on products ranging from the official 24 Hours of Le Mans site to React Native apps and my own music app, [Radaar](https://radaar.app).
+Full-stack product engineer based in France. 10+ years shipping products in TypeScript, from the UI to the API: React, Next.js and React Native on the front, Node.js, NestJS and PostgreSQL behind it. I own features end to end, from the user problem to production (tests, CI, code review), on products ranging from the official 24 Hours of Le Mans site to React Native apps and my own music app, [Radaar.app](https://radaar.app).
 
 AI is both how I build (agent-first workflow with Claude Code) and what I ship: agents, streaming, tool calls and structured outputs in production.
 
@@ -12,7 +12,7 @@ AI is both how I build (agent-first workflow with Claude Code) and what I ship: 
 
 ## Recent work
 
-🎵 **[Radaar](https://radaar.app)**: my own music app, built solo alongside freelance work, so fans never miss a release from their favorite artists. One-click Spotify import (followed and top artists, playlists), scheduled release-detection jobs on QStash (Spotify rate limits, queuing, deduplication) and LLM features. Taken from idea to paying users. Next.js, Supabase, Gemini Flash, PostHog.
+🎵 **[Radaar.app](https://radaar.app)**: my own music app, built solo alongside freelance work, so fans never miss a release from their favorite artists. One-click Spotify import (followed and top artists, playlists), scheduled release-detection jobs on QStash (Spotify rate limits, queuing, deduplication) and LLM features. Taken from idea to paying users. Next.js, Supabase, Gemini Flash, PostHog.
 
 🍳 **[FoodStack](https://foodstack.cards)**: game built at the Mistral AI hackathon. AI-generated recipes via the Mistral API with function calling and real-time persistence. React, Phaser 3, Convex.
 
